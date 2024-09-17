@@ -1,0 +1,176 @@
+{
+  "questions": {
+    "zh": [
+      {
+        "id": 1,
+        "question": "您想要冰淇淋放在甜筒还是杯子里？",
+        "options": ["甜筒", "杯子"],
+        "en_options": ["Cone", "Cup"]
+      },
+      {
+        "id": 2,
+        "question": "您想要甜筒/杯子里加巧克力和坚果吗？",
+        "options": [
+          "是的，我想要巧克力和榛子",
+          "是的，我想要巧克力和焦糖榛子",
+          "是的，我想要巧克力和黑巧克力片",
+          "不，我想要简单一点"
+        ],
+        "en_options": [
+          "Yes, I want chocolate and hazelnuts",
+          "Yes, I want chocolate and caramel hazelnuts",
+          "Yes, I want chocolate and dark chocolate chips",
+          "No, I want it simple"
+        ]
+      },
+      {
+        "id": 3,
+        "question": "您想要甜筒里面有巧克力酱或冰淇淋上面有奶油吗？",
+        "options": [
+          "是的，奶油在上面",
+          "是的，巧克力酱在里面",
+          "不，谢谢"
+        ],
+        "en_options": [
+          "Yes, whipped cream on top",
+          "Yes, chocolate sauce inside",
+          "No, thank you"
+        ]
+      },
+      {
+        "id": 4,
+        "question": "您的选择已记录。请将手机交给卖家以告知最终价格。如果您想用现金支付，请使用硬币，我们没有零钱。谢谢！",
+        "options": []
+      }
+    ],
+    "ko": [
+      {
+        "id": 1,
+        "question": "아이스크림을 콘에 담을까요, 컵에 담을까요?",
+        "options": ["콘", "컵"],
+        "en_options": ["Cone", "Cup"]
+      },
+      {
+        "id": 2,
+        "question": "콘/컵에 초콜릿과 견과류를 추가하시겠습니까?",
+        "options": [
+          "네, 초콜릿과 헤이즐넛을 추가해주세요",
+          "네, 초콜릿과 캐러멜 헤이즐넛을 추가해주세요",
+          "네, 초콜릿과 다크 초콜릿 칩을 추가해주세요",
+          "아니요, 심플하게 해주세요"
+        ],
+        "en_options": [
+          "Yes, add chocolate and hazelnuts",
+          "Yes, add chocolate and caramel hazelnuts",
+          "Yes, add chocolate and dark chocolate chips",
+          "No, keep it simple"
+        ]
+      },
+      {
+        "id": 3,
+        "question": "콘 안에 초콜릿 소스를 넣거나 아이스크림 위에 크림을 얹으시겠습니까?",
+        "options": [
+          "네, 위에 크림을 얹어주세요",
+          "네, 안에 초콜릿 소스를 넣어주세요",
+          "아니요, 괜찮아요"
+        ],
+        "en_options": [
+          "Yes, add cream on top",
+          "Yes, add chocolate sauce inside",
+          "No, thank you"
+        ]
+      },
+      {
+        "id": 4,
+        "question": "선택 사항이 기록되었습니다. 판매자에게 전달하여 최종 가격을 확인하세요. 현금으로 지불하려면 동전을 사용해 주세요. 잔돈은 준비되지 않았습니다. 감사합니다!",
+        "options": []
+      }
+    ],
+    "tr": [
+      {
+        "id": 1,
+        "question": "Dondurmanız kornette mi yoksa bardakta mı olsun?",
+        "options": ["Kornet", "Bardak"],
+        "en_options": ["Cone", "Cup"]
+      },
+      {
+        "id": 2,
+        "question": "Kornet/bardak içerisine çikolata ve fındık ister misiniz?",
+        "options": [
+          "Evet, çikolata ve fındık isterim",
+          "Evet, çikolata ve karamelli fındık isterim",
+          "Evet, çikolata ve bitter çikolata parçacıkları isterim",
+          "Hayır, sade olmasını istiyorum"
+        ],
+        "en_options": [
+          "Yes, I want chocolate and hazelnuts",
+          "Yes, I want chocolate and caramel hazelnuts",
+          "Yes, I want chocolate and dark chocolate chips",
+          "No, keep it simple"
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Kornet içinde çikolata sosu veya dondurmanızın üzerinde krema ister misiniz?",
+        "options": [
+          "Evet, üzerine krema olsun",
+          "Evet, içinde çikolata sosu olsun",
+          "Hayır, istemiyorum"
+        ],
+        "en_options": [
+          "Yes, cream on top",
+          "Yes, chocolate sauce inside",
+          "No, thank you"
+        ]
+      },
+      {
+        "id": 4,
+        "question": "Seçimleriniz kaydedildi. Lütfen telefonunuzu satıcıya verin ve fiyatı öğrenin. Nakit ödeme yapacaksanız bozuk para kullanın, bozuk paramız yok. Teşekkür ederiz!",
+        "options": []
+      }
+    ],
+    "ja": [
+      {
+        "id": 1,
+        "question": "アイスクリームをコーンに入れますか、それともカップにしますか？",
+        "options": ["コーン", "カップ"],
+        "en_options": ["Cone", "Cup"]
+      },
+      {
+        "id": 2,
+        "question": "コーン/カップにチョコレートとナッツを追加しますか？",
+        "options": [
+          "はい、チョコレートとヘーゼルナッツを追加してください",
+          "はい、チョコレートとキャラメルヘーゼルナッツを追加してください",
+          "はい、チョコレートとダークチョコレートチップを追加してください",
+          "いいえ、シンプルなままでお願いします"
+        ],
+        "en_options": [
+          "Yes, I want chocolate and hazelnuts",
+          "Yes, I want chocolate and caramel hazelnuts",
+          "Yes, I want chocolate and dark chocolate chips",
+          "No, keep it simple"
+        ]
+      },
+      {
+        "id": 3,
+        "question": "コーンの中にチョコレートソース、またはアイスクリームの上にクリームを追加しますか？",
+        "options": [
+          "はい、上にクリームを追加してください",
+          "はい、コーンの中にチョコレートソースを追加してください",
+          "いいえ、何もいりません"
+        ],
+        "en_options": [
+          "Yes, add cream on top",
+          "Yes, add chocolate sauce inside",
+          "No, thank you"
+        ]
+      },
+      {
+        "id": 4,
+        "question": "選択が記録されました。価格をお伝えしますので、店員にスマートフォンをお渡しください。現金でお支払いの場合はコインをご利用ください。お釣りはありません。ありがとうございました！",
+        "options": []
+      }
+    ]
+  }
+}
